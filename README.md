@@ -1,5 +1,4 @@
-Cr
-yptShift
+CryptShift
 
 CryptShift is a simple and lightweight Caesar Cipher CLI tool built with Python.  
 It allows users to encrypt and decrypt text directly from the terminal.
